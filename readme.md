@@ -23,6 +23,3 @@ Place the dataset in the dataset directory, and run the following command:
 python main.py 
 ```
 
-## 🔍 Contact
-
-If you have any questions or suggestions, please submit an Issue or send a email to <lbs23@mails.jlu.edu.cn>.
